@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="img">
+    <file>cinv5.png</file>
+  </qresource>
+</RCC>
